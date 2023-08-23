@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thebedigupta
-- 👀 I’m interested in the latest technologies and Exploring Things for me.
+- 👀 I’m interested in the latest technologies and Exploring things.
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking for collaboration.
+- 💞️ I’m looking for collaborations.
 - 📫 How to reach me ...
 - Languages that I know
 - Javascript
