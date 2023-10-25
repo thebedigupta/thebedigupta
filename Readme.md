@@ -5,7 +5,7 @@
 </picture>
 
 
-- 👋 Hi, I’m @thebedigupta
+- 👋 Hi, I’m Bedi Gupta
 - 👀 I’m interested in the latest technologies and Exploring things.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking for collaborations.
