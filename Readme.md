@@ -11,6 +11,6 @@
 - 💞️ I’m looking for collaborations.
 - 📫 How to reach me ...
 - Languages that I know
-- Javascript
+- Javascript , C Language
   
 
