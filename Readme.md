@@ -9,7 +9,7 @@
 - 👀 I’m interested in the latest technologies and Exploring things.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking for collaborations.
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://twitter.com/thebedigupta
 - Languages that I know
 - Javascript , C Language
   
