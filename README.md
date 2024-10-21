@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 [![thebedigupta's GitHub | Stats](https://stats.quira.sh/thebedigupta/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=thebedigupta)
 
 <!--
