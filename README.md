@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I belive in doing things
 -->
+[![thebedigupta's GitHub | Stats](https://stats.quira.sh/thebedigupta/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=thebedigupta)
