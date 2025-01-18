@@ -1,8 +1,13 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/777f5da7-3de4-40d0-b753-e38ba4f7588e" alt="Header" style="width: 100%;">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I’m a passionate developer who thrives on solving real-life problems with the skills I’ve gained over time. As a full-stack developer, I enjoy creating end-to-end solutions that make a difference in people’s lives.
+
+🌟 **Core Values**
+- Problem-solving at heart 🧩
+- Open-source collaboration 🤝
+- Lifelong learning 📖
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/bedigupta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
