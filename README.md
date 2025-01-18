@@ -7,6 +7,12 @@ I’m a passionate developer who thrives on solving real-life problems with the 
 - Open-source collaboration 🤝
 - Lifelong learning 📖
 
+# Stats
+<img
+  src="https://github.com/thebedigupta/thebedigupta/blob/main/images/stat.svg"
+  alt="Bedi WakaTime Activity"
+/>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bedigupta/">
