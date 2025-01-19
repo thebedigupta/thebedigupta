@@ -25,6 +25,7 @@ I’m a passionate developer who thrives on solving real-life problems with the 
 <img src="https://komarev.com/ghpvc/?username=thebedigupta&style=flat-square&color=blue" alt=""/>
 
 [![An image of @thebedigupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thebedigupta)](https://holopin.io/@thebedigupta)
+
 <!--
 **thebedigupta/thebedigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
