@@ -22,7 +22,7 @@ I’m a passionate developer who thrives on solving real-life problems with the 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=thebedigupta&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=thebedigupta&style=flat-square&color=blue" alt="profile view counter" style='center'/>
 
 [![An image of @thebedigupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thebedigupta)](https://holopin.io/@thebedigupta)
 
@@ -39,6 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I belive in doing things
 -->
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/:year/:user/:repo)
 
 [![thebedigupta's GitHub | Stats](https://stats.quira.sh/thebedigupta/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=thebedigupta)
