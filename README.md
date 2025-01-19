@@ -1,18 +1,22 @@
+<div align='center'>
+<img src="https://komarev.com/ghpvc/?username=thebedigupta&style=for-the-badge&color=blue" alt="profile view counter" style='center'/>
+</div>
 <img src="https://github.com/user-attachments/assets/777f5da7-3de4-40d0-b753-e38ba4f7588e" alt="Header" style="width: 100%;">
 
 I’m a passionate developer who thrives on solving real-life problems with the skills I’ve gained over time. As a full-stack developer, I enjoy creating end-to-end solutions that make a difference in people’s lives.
 
 🌟 **Core Values**
+
 - Problem-solving at heart 🧩
 - Open-source collaboration 🤝
 - Lifelong learning 📖
 
 # Stats
+
 <img
   src="https://github.com/thebedigupta/thebedigupta/blob/main/images/stat.svg"
   alt="Bedi WakaTime Activity"
 />
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bedigupta/">
@@ -22,11 +26,9 @@ I’m a passionate developer who thrives on solving real-life problems with the 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=thebedigupta&style=flat-square&color=blue" alt="profile view counter" style='center'/>
 
 [![An image of @thebedigupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thebedigupta)](https://holopin.io/@thebedigupta)
 
-<!--
 **thebedigupta/thebedigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,6 +40,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mail me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I belive in doing things
--->
 
 [![thebedigupta's GitHub | Stats](https://stats.quira.sh/thebedigupta/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=thebedigupta)
