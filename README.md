@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://komarev.com/ghpvc/?username=thebedigupta&style=for-the-badge&color=blue" alt="profile view counter" style='center'/>
+<img src="https://komarev.com/ghpvc/?username=thebedigupta&style=for-the-badge&color=blue&abbreviated=true" alt="profile view counter" style='center'/>
 </div>
 <img src="https://github.com/user-attachments/assets/777f5da7-3de4-40d0-b753-e38ba4f7588e" alt="Header" style="width: 100%;">
 
