@@ -26,8 +26,6 @@ I’m a passionate developer who thrives on solving real-life problems with the 
 
 [![An image of @thebedigupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thebedigupta)](https://holopin.io/@thebedigupta)
 
-**thebedigupta/thebedigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...small projects
