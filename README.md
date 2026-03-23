@@ -47,6 +47,75 @@ Process       Agile · STLC · JIRA
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 9.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 106 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+🌆 Daytime                44 commits          ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌃 Evening                94 commits          █████████████░░░░░░░░░░░░   50.81 % 
+🌙 Night                  22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Tuesday                  35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Wednesday                19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Saturday                 35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Sunday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
+EJS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/03/2026 20:10:58 UTC
 <!--END_SECTION:waka-->
 
 ---
