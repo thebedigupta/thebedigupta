@@ -47,11 +47,13 @@ Process       Agile · STLC · JIRA
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 9.2 kB Used in GitHub's Storage 
+> 📦 9.3 kB Used in GitHub's Storage 
  > 
 > 🏆 106 Contributions in the Year 2026
  > 
@@ -115,7 +117,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2026 20:10:58 UTC
+ Last Updated on 24/03/2026 02:40:06 UTC
 <!--END_SECTION:waka-->
 
 ---
