@@ -53,6 +53,76 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2034%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 9.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 137 Contributions in the Year 2026
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌆 Daytime                48 commits          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌃 Evening                121 commits         ██████████████░░░░░░░░░░░   55.50 % 
+🌙 Night                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Tuesday                  37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Sunday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 5 hrs 45 mins       █████████████░░░░░░░░░░░░   50.03 % 
+TypeScript               5 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.74 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+qa_learning_journal      11 hrs 31 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    11 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
+EJS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
+
+ Last Updated on 07/04/2026 02:54:57 UTC
 <!--END_SECTION:waka-->
 
 ---
