@@ -8,29 +8,35 @@
 
 Hey, I'm Bedi 👋
 
-I spent a few years doing full-stack dev and slowly realised something — I was way more interested in finding out *why* things broke than making them work in the first place. So I made a call: pivot into QA Automation and go all in.
+I build full-stack web apps — and I also break them. Intentionally.
 
-No regrets so far. I'm currently building toward an SDET role, working through everything Playwright, TypeScript, and CI/CD-related that I can get my hands on. It's a grind, but an honest one.
+On the dev side, I work with Node.js, React, and TypeScript to build REST APIs and responsive interfaces. On the automation side, I work with Playwright and CI/CD pipelines to make sure what I build actually holds up. Somewhere in the middle is where I do my best work.
+
+Currently grinding toward **SDET & Full Stack Intern roles in GCCs (2026)** — one project, one commit at a time.
 
 ---
 
 ## What I'm actually doing right now
 
-- 🎯 20-week structured roadmap to get job-ready as a QA Automation Engineer — currently in the JS/TS foundations phase
 - 🔧 Building [`js-automation-toolkit`](https://github.com/thebedigupta/js-automation-toolkit) — Playwright + TypeScript framework with POM, CI/CD pipeline, and Allure reports
-- 📚 Deep in Phase 0 right now: TypeScript, async/await, OOP — the stuff that makes automation not fall apart
+- 🎯 Following a structured roadmap to get job-ready as a QA Automation Engineer — currently deep in TypeScript + async fundamentals
 - 🏗️ Two more projects on deck: an API automation suite and a BDD/Cucumber framework
+- 💡 Revisiting full-stack concepts — keeping the dev side sharp while building the QA side up
 
 ---
 
-## The stack I'm learning
+## The stack I work with
+
 ```
+Languages     TypeScript · JavaScript (ES6+)
+Frontend      React.js · HTML · CSS
+Backend       Node.js · Express.js · REST APIs · JWT
+Databases     MongoDB · PostgreSQL · Firebase
 Testing       Playwright · Postman · Newman
-Language      TypeScript · JavaScript (ES6+)
 Architecture  Page Object Model · Data Driven Testing · BDD
 CI/CD         GitHub Actions · Docker · Allure Reports
-Backend       REST APIs · JWT · SQL
 Process       Agile · STLC · JIRA
+Tools         Git · GitHub · AWS EC2 · VS Code
 ```
 
 ---
@@ -47,81 +53,6 @@ Process       Agile · STLC · JIRA
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2034%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 9.3 kB Used in GitHub's Storage 
- > 
-> 🏆 137 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-🌆 Daytime                48 commits          ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-🌃 Evening                121 commits         ██████████████░░░░░░░░░░░   55.50 % 
-🌙 Night                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Tuesday                  37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Thursday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Saturday                 40 commits          █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Sunday                   37 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 5 hrs 45 mins       █████████████░░░░░░░░░░░░   50.03 % 
-TypeScript               5 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-qa_learning_journal      11 hrs 31 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    11 hrs 31 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             ████████████████░░░░░░░░░   62.50 % 
-EJS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
-
-
- Last Updated on 07/04/2026 02:54:57 UTC
 <!--END_SECTION:waka-->
 
 ---
