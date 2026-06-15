@@ -18,7 +18,7 @@ Currently grinding toward **SDET & Full Stack Intern roles in GCCs (2026)** — 
 
 ## What I'm actually doing right now
 
-- 🔧 Building [`js-automation-toolkit`](https://github.com/thebedigupta/js-automation-toolkit) — Playwright + TypeScript framework with POM, CI/CD pipeline, and Allure reports
+- 🔧 🎯 Currently automating a full end-to-end e-commerce suite (26 test cases) with my Playwright + POM framework — Phase 2 of a structured SDET roadmap[`js-automation-toolkit`](https://github.com/thebedigupta/js-automation-toolkit)
 - 🎯 Following a structured roadmap to get job-ready as a QA Automation Engineer — currently deep in TypeScript + async fundamentals
 - 🏗️ Two more projects on deck: an API automation suite and a BDD/Cucumber framework
 - 💡 Revisiting full-stack concepts — keeping the dev side sharp while building the QA side up
