@@ -94,19 +94,19 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSV                      25 mins             ██████████░░░░░░░░░░░░░░░   41.69 % 
-TypeScript               21 mins             █████████░░░░░░░░░░░░░░░░   35.83 % 
-Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CSV                      25 mins             ███████████░░░░░░░░░░░░░░   44.23 % 
+TypeScript               21 mins             ██████████░░░░░░░░░░░░░░░   38.01 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qa_learning_journal      1 hr                █████████████████████████   100.00 % 
+qa_learning_journal      56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +126,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:20:00 UTC
+ Last Updated on 25/07/2026 03:18:20 UTC
 <!--END_SECTION:waka-->
 
 ---
