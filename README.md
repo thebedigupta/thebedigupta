@@ -53,6 +53,10 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -67,6 +71,74 @@ Tools         Git · GitHub · AWS EC2 · VS Code
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                576 commits         ████████░░░░░░░░░░░░░░░░░   33.45 % 
+🌆 Daytime                204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+🌃 Evening                828 commits         ████████████░░░░░░░░░░░░░   48.08 % 
+🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   414 commits         ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Saturday                 126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 50 mins             ██████████████████████░░░   88.58 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+Claude Code              57 mins             █████████████████████████   99.81 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🐱‍💻 Projects: 
+Obsidian Vault           34 mins             ███████████████░░░░░░░░░░   59.63 % 
+thebedigupta             16 mins             ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+sanatana-maestro         7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+
+💻 Operating System: 
+Linux                    57 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 57 mins (100.0%)
+
+✍️ 128 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,377,099 Input Tokens, 39,571 Output Tokens
+
+💵 $23.21 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 13 AI Prompts
+
+Fable                    128 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 432 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:54:34 UTC
+ Last Updated on 08/08/2026 01:59:43 UTC
 <!--END_SECTION:waka-->
 
 ---
