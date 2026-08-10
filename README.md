@@ -53,11 +53,11 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2055%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -98,45 +98,46 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         █████████████████████░░░░   82.68 % 
-YAML                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 1 hr 23 mins        █████████████████░░░░░░░░   66.09 % 
+YAML                     40 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ████████████████████████░   96.94 % 
-VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Claude Code              1 hr 32 mins        ██████████████████░░░░░░░   73.06 % 
+VS Code                  34 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           34 mins             ██████████░░░░░░░░░░░░░░░   41.86 % 
-sanatana-maestro         31 mins             ██████████░░░░░░░░░░░░░░░   38.45 % 
-thebedigupta             16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+sanatana-maestro         1 hr 16 mins        ███████████████░░░░░░░░░░   60.24 % 
+Obsidian Vault           34 mins             ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+thebedigupta             16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 💻 Operating System: 
-Linux                    1 hr 21 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (100.0%)
+⏱ AI Coding Time: 1 hr 43 mins (81.39%)
 
-✍️ 260 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 260 lines written by AI, 4 lines written by hand (98.48% AI-written)
 
-🔤 2,579,272 Input Tokens, 51,657 Output Tokens
+🔤 2,636,672 Input Tokens, 61,797 Output Tokens
 
-💵 $26.10 Estimated AI Cost This Week
+💵 $26.99 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 17 AI Prompts
+🧠 6 AI Sessions, 24 AI Prompts
 
 Fable                    251 lines           ████████████████████████░   96.54 % 
 Opus                     9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 368 characters per prompt
+🤖 AI-Driven — 98.48% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 3.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +157,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 02:07:29 UTC
+ Last Updated on 10/08/2026 02:12:21 UTC
 <!--END_SECTION:waka-->
 
 ---
