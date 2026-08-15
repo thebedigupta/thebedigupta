@@ -53,9 +53,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -98,47 +98,47 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 28 mins        ██████████████░░░░░░░░░░░   56.43 % 
-YAML                     1 hr 6 mins         ███████████░░░░░░░░░░░░░░   42.01 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+YAML                     59 mins             ███████████████░░░░░░░░░░   59.75 % 
+Markdown                 37 mins             █████████░░░░░░░░░░░░░░░░   37.91 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Claude Code              1 hr 49 mins        █████████████████░░░░░░░░   69.45 % 
-VS Code                  48 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
+Claude Code              51 mins             █████████████░░░░░░░░░░░░   51.96 % 
+VS Code                  47 mins             ████████████░░░░░░░░░░░░░   48.04 % 
 
 🐱‍💻 Projects: 
-sanatana-maestro         1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.56 % 
-Obsidian Vault           53 mins             █████████░░░░░░░░░░░░░░░░   34.19 % 
-thebedigupta             25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Downloads                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+sanatana-maestro         1 hr 9 mins         █████████████████░░░░░░░░   69.43 % 
+Obsidian Vault           19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+thebedigupta             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Downloads                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (83.17%)
+⏱ AI Coding Time: 1 hr 13 mins (73.48%)
 
-✍️ 413 lines written by AI, 4 lines written by hand (99.04% AI-written)
+✍️ 285 lines written by AI, 4 lines written by hand (98.62% AI-written)
 
-🔤 2,664,951 Input Tokens, 73,068 Output Tokens
+🔤 287,852 Input Tokens, 33,497 Output Tokens
 
-💵 $28.24 Estimated AI Cost This Week
+💵 $5.03 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 31 AI Prompts
+🧠 7 AI Sessions, 18 AI Prompts
 
-Fable                    404 lines           ████████████████████████░   97.82 % 
-Opus                     9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Fable                    276 lines           ████████████████████████░   96.84 % 
+Opus                     9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.04% of written lines came from AI
-📝 Concise Prompter — average 355 characters per prompt
+🤖 AI-Driven — 98.62% of written lines came from AI
+📝 Concise Prompter — average 300 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.36% of changed lines were hand-edited
+🚀 High AI Trust — 3.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +158,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 02:24:16 UTC
+ Last Updated on 15/08/2026 01:36:05 UTC
 <!--END_SECTION:waka-->
 
 ---
