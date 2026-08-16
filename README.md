@@ -98,47 +98,47 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     59 mins             ███████████████░░░░░░░░░░   59.75 % 
-Markdown                 37 mins             █████████░░░░░░░░░░░░░░░░   37.91 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+YAML                     54 mins             ██████████████████░░░░░░░   72.80 % 
+Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Claude Code              51 mins             █████████████░░░░░░░░░░░░   51.96 % 
-VS Code                  47 mins             ████████████░░░░░░░░░░░░░   48.04 % 
+VS Code                  42 mins             ██████████████░░░░░░░░░░░   56.60 % 
+Claude Code              32 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
 
 🐱‍💻 Projects: 
-sanatana-maestro         1 hr 9 mins         █████████████████░░░░░░░░   69.43 % 
-Obsidian Vault           19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-thebedigupta             8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Downloads                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+sanatana-maestro         44 mins             ███████████████░░░░░░░░░░   59.53 % 
+Obsidian Vault           19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+thebedigupta             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Downloads                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 💻 Operating System: 
-Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (73.48%)
+⏱ AI Coding Time: 51 mins (68.71%)
 
-✍️ 285 lines written by AI, 4 lines written by hand (98.62% AI-written)
+✍️ 153 lines written by AI, 4 lines written by hand (97.45% AI-written)
 
-🔤 287,852 Input Tokens, 33,497 Output Tokens
+🔤 85,679 Input Tokens, 21,411 Output Tokens
 
-💵 $5.03 Estimated AI Cost This Week
+💵 $2.14 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-Fable                    276 lines           ████████████████████████░   96.84 % 
-Opus                     9 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Fable                    153 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.62% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
+🤖 AI-Driven — 97.45% of written lines came from AI
+📝 Concise Prompter — average 340 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 3.39% of changed lines were hand-edited
+🚀 High AI Trust — 6.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +158,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 01:36:05 UTC
+ Last Updated on 16/08/2026 01:42:39 UTC
 <!--END_SECTION:waka-->
 
 ---
