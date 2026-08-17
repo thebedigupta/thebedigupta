@@ -98,47 +98,44 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     54 mins             ██████████████████░░░░░░░   72.80 % 
-Markdown                 18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+YAML                     28 mins             ███████████████████████░░   93.15 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🔥 Editors: 
-VS Code                  42 mins             ██████████████░░░░░░░░░░░   56.60 % 
-Claude Code              32 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
+Claude Code              19 mins             ████████████████░░░░░░░░░   63.90 % 
+VS Code                  11 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
 
 🐱‍💻 Projects: 
-sanatana-maestro         44 mins             ███████████████░░░░░░░░░░   59.53 % 
-Obsidian Vault           19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-thebedigupta             8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Downloads                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Obsidian Vault           19 mins             ████████████████░░░░░░░░░   63.90 % 
+thebedigupta             8 mins              ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Downloads                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (68.71%)
+⏱ AI Coding Time: 30 mins (100.0%)
 
-✍️ 153 lines written by AI, 4 lines written by hand (97.45% AI-written)
+✍️ 153 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 85,679 Input Tokens, 21,411 Output Tokens
+🔤 28,279 Input Tokens, 11,271 Output Tokens
 
-💵 $2.14 Estimated AI Cost This Week
+💵 $1.25 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
+🧠 3 AI Sessions, 7 AI Prompts
 
 Fable                    153 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📝 Concise Prompter — average 340 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.13% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 368 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +155,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:42:39 UTC
+ Last Updated on 17/08/2026 01:40:33 UTC
 <!--END_SECTION:waka-->
 
 ---
