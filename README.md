@@ -61,7 +61,7 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 
 **🐱 My GitHub Data** 
 
-> 📦 21.0 kB Used in GitHub's Storage 
+> 📦 21.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,046 Contributions in the Year 2026
  > 
@@ -98,44 +98,22 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     28 mins             ███████████████████████░░   93.15 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              19 mins             ████████████████░░░░░░░░░   63.90 % 
-VS Code                  11 mins             █████████░░░░░░░░░░░░░░░░   36.10 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Obsidian Vault           19 mins             ████████████████░░░░░░░░░   63.90 % 
-thebedigupta             8 mins              ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-Downloads                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (100.0%)
-
-✍️ 153 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 28,279 Input Tokens, 11,271 Output Tokens
-
-💵 $1.25 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 7 AI Prompts
-
-Fable                    153 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 368 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -155,7 +133,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 01:36:33 UTC
+ Last Updated on 21/08/2026 01:41:39 UTC
 <!--END_SECTION:waka-->
 
 ---
