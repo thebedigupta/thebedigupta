@@ -98,36 +98,35 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 33 mins             ████████████████░░░░░░░░░   63.26 % 
-Bash                     19 mins             █████████░░░░░░░░░░░░░░░░   36.74 % 
+Markdown                 33 mins             ██████████████████████░░░   86.74 % 
+Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 
 🔥 Editors: 
-Claude Code              26 mins             █████████████░░░░░░░░░░░░   50.39 % 
-VS Code                  26 mins             ████████████░░░░░░░░░░░░░   49.61 % 
+VS Code                  26 mins             █████████████████░░░░░░░░   68.02 % 
+Claude Code              12 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
 
 🐱‍💻 Projects: 
-rn-api-automation        16 mins             ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Intership                14 mins             ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-Downloads                9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Obsidian Vault           7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-thebedigupta             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+rn-api-automation        16 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
+Downloads                9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Obsidian Vault           7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+thebedigupta             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+Linux                    39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (69.22%)
+⏱ AI Coding Time: 22 mins (57.8%)
 
 ✍️ 2 lines written by AI, 15 lines written by hand (11.76% AI-written)
 
-🔤 522,575 Input Tokens, 12,777 Output Tokens
+🔤 520,540 Input Tokens, 8,167 Output Tokens
 
-💵 $4.69 Estimated AI Cost This Week
+💵 $4.38 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 16 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
 Fable                    2 lines             █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -135,7 +134,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 11.76% of written lines came from AI
-📄 Detailed Prompter — average 626 characters per prompt
+📄 Detailed Prompter — average 705 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 88.24% of changed lines were hand-edited
 ```
@@ -157,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:42:14 UTC
+ Last Updated on 27/08/2026 08:38:48 UTC
 <!--END_SECTION:waka-->
 
 ---
