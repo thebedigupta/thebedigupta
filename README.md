@@ -98,45 +98,22 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 33 mins             ██████████████████████░░░   86.74 % 
-Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████░░░░░░░░   68.02 % 
-Claude Code              12 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rn-api-automation        16 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
-Downloads                9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Obsidian Vault           7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-thebedigupta             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (57.8%)
-
-✍️ 2 lines written by AI, 15 lines written by hand (11.76% AI-written)
-
-🔤 520,540 Input Tokens, 8,167 Output Tokens
-
-💵 $4.38 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 12 AI Prompts
-
-Fable                    2 lines             █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.76% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 88.24% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +133,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 06:37:52 UTC
+ Last Updated on 30/08/2026 04:51:21 UTC
 <!--END_SECTION:waka-->
 
 ---
