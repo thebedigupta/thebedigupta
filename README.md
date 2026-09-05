@@ -53,7 +53,7 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%209%20mins-blue?style=flat)
 
@@ -98,18 +98,20 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 mins              █████████████████████░░░░   84.59 % 
-TSConfig                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TypeScript               21 mins             ██████████████████████░░░   87.98 % 
+TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sanatan-ayurveda-test-sui9 mins              █████████████████████████   100.00 % 
+sanatan-ayurveda-test-sui24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +137,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 03:57:51 UTC
+ Last Updated on 05/09/2026 03:54:56 UTC
 <!--END_SECTION:waka-->
 
 ---
