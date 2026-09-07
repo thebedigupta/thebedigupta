@@ -98,26 +98,44 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               21 mins             ██████████████████████░░░   87.98 % 
-TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 46 mins             ████████████████░░░░░░░░░   64.70 % 
+TypeScript               22 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
+TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+Claude Code              45 mins             ████████████████░░░░░░░░░   64.59 % 
+VS Code                  25 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
 
 🐱‍💻 Projects: 
-sanatan-ayurveda-test-sui24 mins             █████████████████████████   100.00 % 
+Obsidian Vault           45 mins             ████████████████░░░░░░░░░   64.59 % 
+sanatan-ayurveda-test-sui25 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 45 mins (64.59%)
+
+✍️ 29 lines written by AI, 225 lines written by hand (11.42% AI-written)
+
+🔤 28,459 Input Tokens, 12,742 Output Tokens
+
+💵 $0.34 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 13 AI Prompts
+
+Sonnet                   29 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 11.42% of written lines came from AI
+📝 Concise Prompter — average 278 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 91.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,7 +155,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 04:00:12 UTC
+ Last Updated on 07/09/2026 03:59:44 UTC
 <!--END_SECTION:waka-->
 
 ---
