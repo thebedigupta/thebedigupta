@@ -98,30 +98,30 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 46 mins             ████████████████░░░░░░░░░   64.70 % 
-TypeScript               22 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
-TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               1 hr 18 mins        ████████████████░░░░░░░░░   62.17 % 
+Markdown                 45 mins             █████████░░░░░░░░░░░░░░░░   36.61 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Claude Code              45 mins             ████████████████░░░░░░░░░   64.59 % 
-VS Code                  25 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
+VS Code                  1 hr 19 mins        ████████████████░░░░░░░░░   63.39 % 
+Claude Code              45 mins             █████████░░░░░░░░░░░░░░░░   36.61 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           45 mins             ████████████████░░░░░░░░░   64.59 % 
-sanatan-ayurveda-test-sui25 mins             █████████░░░░░░░░░░░░░░░░   35.41 % 
+sanatan-ayurveda-test-sui1 hr 19 mins        ████████████████░░░░░░░░░   63.39 % 
+Obsidian Vault           45 mins             █████████░░░░░░░░░░░░░░░░   36.61 % 
 
 💻 Operating System: 
-Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (64.59%)
+⏱ AI Coding Time: 45 mins (36.61%)
 
-✍️ 29 lines written by AI, 225 lines written by hand (11.42% AI-written)
+✍️ 29 lines written by AI, 153 lines written by hand (15.93% AI-written)
 
 🔤 28,459 Input Tokens, 12,742 Output Tokens
 
@@ -132,10 +132,10 @@ Linux                    1 hr 11 mins        ███████████�
 Sonnet                   29 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.42% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 15.93% of written lines came from AI
 📝 Concise Prompter — average 278 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 91.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -155,7 +155,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 04:05:42 UTC
+ Last Updated on 11/09/2026 04:03:35 UTC
 <!--END_SECTION:waka-->
 
 ---
