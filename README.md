@@ -53,7 +53,7 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2055%20mins-blue?style=flat)
 
@@ -98,28 +98,30 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs               ██████████████████░░░░░░░   72.30 % 
-Markdown                 45 mins             ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               2 hrs 31 mins       ███████████████████░░░░░░   74.82 % 
+Markdown                 45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               ██████████████████░░░░░░░   72.33 % 
-Claude Code              45 mins             ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+VS Code                  2 hrs 36 mins       ███████████████████░░░░░░   77.33 % 
+Claude Code              45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 
 🐱‍💻 Projects: 
-sanatan-ayurveda-test-sui2 hrs               ██████████████████░░░░░░░   72.33 % 
-Obsidian Vault           45 mins             ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+sanatan-ayurveda-test-sui2 hrs 36 mins       ███████████████████░░░░░░   77.33 % 
+Obsidian Vault           45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
 
 💻 Operating System: 
-Linux                    2 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (27.67%)
+⏱ AI Coding Time: 45 mins (22.67%)
 
-✍️ 29 lines written by AI, 61 lines written by hand (32.22% AI-written)
+✍️ 29 lines written by AI, 79 lines written by hand (26.85% AI-written)
 
 🔤 28,459 Input Tokens, 12,742 Output Tokens
 
@@ -130,10 +132,10 @@ Linux                    2 hrs 46 mins       ███████████�
 Sonnet                   29 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.22% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 26.85% of written lines came from AI
 📝 Concise Prompter — average 278 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 77.17% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 81.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +155,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 04:04:40 UTC
+ Last Updated on 13/09/2026 04:15:52 UTC
 <!--END_SECTION:waka-->
 
 ---
