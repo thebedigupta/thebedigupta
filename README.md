@@ -63,19 +63,19 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,048 Contributions in the Year 2026
+> 🏆 1,047 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                576 commits         ████████░░░░░░░░░░░░░░░░░   33.43 % 
-🌆 Daytime                204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+🌞 Morning                577 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 🌃 Evening                829 commits         ████████████░░░░░░░░░░░░░   48.11 % 
 🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
@@ -85,9 +85,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 Monday                   414 commits         ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
 Tuesday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Saturday                 126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Saturday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
 ```
 
@@ -122,11 +122,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-EJS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+EJS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -136,7 +136,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 04:18:43 UTC
+ Last Updated on 17/09/2026 04:25:10 UTC
 <!--END_SECTION:waka-->
 
 ---
