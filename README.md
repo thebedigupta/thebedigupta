@@ -98,19 +98,21 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 31 mins       ████████████████████████░   96.75 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+TypeScript               1 hr 27 mins        ██████████████████████░░░   89.88 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sanatan-ayurveda-test-sui2 hrs 36 mins       █████████████████████████   100.00 % 
+sanatan-ayurveda-test-sui1 hr 35 mins        █████████████████████████   98.06 % 
+data-structure-and-algori1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +138,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 04:25:10 UTC
+ Last Updated on 18/09/2026 04:09:21 UTC
 <!--END_SECTION:waka-->
 
 ---
