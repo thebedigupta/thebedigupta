@@ -53,9 +53,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -98,31 +98,31 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               35 mins             ██████████████████░░░░░░░   70.49 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sanatan-ayurveda-test-sui43 mins             ██████████████████████░░░   86.44 % 
-Obsidian Vault           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-data-structure-and-algori1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-thebedigupta             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+sanatan-ayurveda-test-sui6 mins              ████████████░░░░░░░░░░░░░   48.84 % 
+Obsidian Vault           3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+data-structure-and-algori1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+thebedigupta             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (9.79%)
+⏱ AI Coding Time: 4 mins (36.92%)
 
-✍️ 0 lines written by AI, 24 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
 
 🔤 17,685 Input Tokens, 220 Output Tokens
 
@@ -156,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 04:05:56 UTC
+ Last Updated on 20/09/2026 04:25:11 UTC
 <!--END_SECTION:waka-->
 
 ---
