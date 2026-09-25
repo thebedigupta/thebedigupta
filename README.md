@@ -98,45 +98,46 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-Markdown                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+JavaScript               8 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
+Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             ██████████████████████░░░   89.51 % 
+Claude Code              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 🐱‍💻 Projects: 
-sanatan-ayurveda-test-sui6 mins              ████████████░░░░░░░░░░░░░   48.84 % 
-Obsidian Vault           3 mins              ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-data-structure-and-algori1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-thebedigupta             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+qa_learning_journal      8 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
+sanatan-ayurveda-test-sui3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Obsidian Vault           3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Outside Brain            1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+thebedigupta             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (36.92%)
+⏱ AI Coding Time: 6 mins (36.77%)
 
-✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 17,685 Input Tokens, 220 Output Tokens
+🔤 204,147 Input Tokens, 9,484 Output Tokens
 
-💵 $0.20 Estimated AI Cost This Week
+💵 $0.84 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 Sonnet                   2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 367 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +157,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 04:11:36 UTC
+ Last Updated on 25/09/2026 04:24:44 UTC
 <!--END_SECTION:waka-->
 
 ---
