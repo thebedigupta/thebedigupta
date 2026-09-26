@@ -53,9 +53,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -98,45 +98,41 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
-Markdown                 3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-TypeScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+JavaScript               8 mins              ████████████████████░░░░░   81.09 % 
+Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-VS Code                  16 mins             ██████████████████████░░░   89.51 % 
-Claude Code              1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+VS Code                  8 mins              ████████████████████░░░░░   81.09 % 
+Claude Code              1 min               █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 
 🐱‍💻 Projects: 
-qa_learning_journal      8 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
-sanatan-ayurveda-test-sui3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Obsidian Vault           3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Outside Brain            1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-thebedigupta             1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+qa_learning_journal      8 mins              ████████████████████░░░░░   81.09 % 
+Outside Brain            1 min               █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+Linux                    10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (36.77%)
+⏱ AI Coding Time: 1 min (18.91%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 204,147 Input Tokens, 9,484 Output Tokens
+🔤 186,462 Input Tokens, 9,264 Output Tokens
 
-💵 $0.84 Estimated AI Cost This Week
+💵 $0.75 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Sonnet                   2 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 104 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -157,7 +153,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 04:24:44 UTC
+ Last Updated on 26/09/2026 04:28:52 UTC
 <!--END_SECTION:waka-->
 
 ---
