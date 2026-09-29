@@ -63,32 +63,32 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,047 Contributions in the Year 2026
+> 🏆 1,049 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                577 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-🌃 Evening                829 commits         ████████████░░░░░░░░░░░░░   48.11 % 
-🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌞 Morning                577 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌃 Evening                830 commits         ████████████░░░░░░░░░░░░░   48.14 % 
+🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   414 commits         ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Monday                   415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
 Tuesday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 Saturday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 
 
@@ -98,42 +98,44 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 mins              ████████████████████░░░░░   81.09 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Markdown                 1 hr 57 mins        ████████████████░░░░░░░░░   65.86 % 
+Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-VS Code                  8 mins              ████████████████████░░░░░   81.09 % 
-Claude Code              1 min               █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Claude Code              2 hrs 37 mins       ██████████████████████░░░   87.95 % 
+VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
 
 🐱‍💻 Projects: 
-qa_learning_journal      8 mins              ████████████████████░░░░░   81.09 % 
-Outside Brain            1 min               █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Outside Brain            2 hrs 26 mins       █████████████████████░░░░   82.05 % 
+qa_learning_journal      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+sanatanayuveda           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (18.91%)
+⏱ AI Coding Time: 2 hrs 39 mins (89.43%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 211 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 186,462 Input Tokens, 9,264 Output Tokens
+🔤 1,173,765 Input Tokens, 173,835 Output Tokens
 
-💵 $0.75 Estimated AI Cost This Week
+💵 $5.76 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 9 AI Sessions, 38 AI Prompts
 
-Sonnet                   2 lines             █████████████████████████   100.00 % 
+Sonnet                   213 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 221 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +155,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 04:48:43 UTC
+ Last Updated on 29/09/2026 05:14:36 UTC
 <!--END_SECTION:waka-->
 
 ---
