@@ -53,9 +53,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -63,7 +63,7 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,049 Contributions in the Year 2026
+> 🏆 1,050 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -74,21 +74,21 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                577 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌞 Morning                577 commits         ████████░░░░░░░░░░░░░░░░░   33.45 % 
 🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-🌃 Evening                830 commits         ████████████░░░░░░░░░░░░░   48.14 % 
-🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+🌃 Evening                830 commits         ████████████░░░░░░░░░░░░░   48.12 % 
+🌙 Night                  115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Tuesday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Monday                   415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Tuesday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Wednesday                281 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 Saturday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 ```
 
 
@@ -98,54 +98,55 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        ████████████████░░░░░░░░░   65.86 % 
-Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    56 mins             ████████████░░░░░░░░░░░░░   47.12 % 
+Markdown                 39 mins             ████████░░░░░░░░░░░░░░░░░   32.85 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 37 mins       ██████████████████████░░░   87.95 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Claude Code              1 hr 32 mins        ███████████████████░░░░░░   77.76 % 
+VS Code                  26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
 
 🐱‍💻 Projects: 
-Outside Brain            2 hrs 26 mins       █████████████████████░░░░   82.05 % 
-qa_learning_journal      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-sanatanayuveda           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Outside Brain            1 hr 22 mins        █████████████████░░░░░░░░   68.92 % 
+qa_learning_journal      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+sanatanayuveda           16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 💻 Operating System: 
-Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 39 mins (89.43%)
+⏱ AI Coding Time: 1 hr 39 mins (83.48%)
 
-✍️ 211 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 100 lines written by AI, 32 lines written by hand (75.76% AI-written)
 
-🔤 1,173,765 Input Tokens, 173,835 Output Tokens
+🔤 1,003,656 Input Tokens, 81,561 Output Tokens
 
-💵 $5.76 Estimated AI Cost This Week
+💵 $4.05 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 38 AI Prompts
+🧠 9 AI Sessions, 31 AI Prompts
 
-Sonnet                   213 lines           █████████████████████████   100.00 % 
+Sonnet                   100 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+🤖 AI-Driven — 75.76% of written lines came from AI
+📝 Concise Prompter — average 305 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 24.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-EJS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+EJS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -155,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 05:14:36 UTC
+ Last Updated on 30/09/2026 05:02:00 UTC
 <!--END_SECTION:waka-->
 
 ---
