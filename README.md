@@ -53,9 +53,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -98,45 +98,45 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    56 mins             ████████████░░░░░░░░░░░░░   47.12 % 
-Markdown                 39 mins             ████████░░░░░░░░░░░░░░░░░   32.85 % 
-JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-TypeScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Other                    56 mins             █████████████░░░░░░░░░░░░   51.71 % 
+TypeScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 🔥 Editors: 
-Claude Code              1 hr 32 mins        ███████████████████░░░░░░   77.76 % 
-VS Code                  26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Claude Code              1 hr 6 mins         ███████████████░░░░░░░░░░   60.92 % 
+VS Code                  42 mins             ██████████░░░░░░░░░░░░░░░   39.08 % 
 
 🐱‍💻 Projects: 
-Outside Brain            1 hr 22 mins        █████████████████░░░░░░░░   68.92 % 
-qa_learning_journal      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-sanatanayuveda           16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Outside Brain            55 mins             █████████████░░░░░░░░░░░░   51.22 % 
+sanatanayuveda           32 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+qa_learning_journal      20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (83.48%)
+⏱ AI Coding Time: 1 hr 13 mins (67.19%)
 
-✍️ 100 lines written by AI, 32 lines written by hand (75.76% AI-written)
+✍️ 100 lines written by AI, 100 lines written by hand (50.0% AI-written)
 
-🔤 1,003,656 Input Tokens, 81,561 Output Tokens
+🔤 915,007 Input Tokens, 78,554 Output Tokens
 
-💵 $4.05 Estimated AI Cost This Week
+💵 $3.83 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 31 AI Prompts
+🧠 9 AI Sessions, 23 AI Prompts
 
 Sonnet                   100 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.76% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
+⚖️ Balanced with AI — 50.0% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.81% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 05:02:00 UTC
+ Last Updated on 01/10/2026 05:16:10 UTC
 <!--END_SECTION:waka-->
 
 ---
