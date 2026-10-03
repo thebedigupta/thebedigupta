@@ -98,45 +98,45 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    54 mins             ██████████████░░░░░░░░░░░   56.53 % 
-TypeScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown                 1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.44 % 
+Other                    54 mins             █████████░░░░░░░░░░░░░░░░   35.47 % 
+TypeScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Claude Code              1 hr 3 mins         █████████████████░░░░░░░░   66.48 % 
-VS Code                  32 mins             ████████░░░░░░░░░░░░░░░░░   33.52 % 
+Claude Code              1 hr 58 mins        ███████████████████░░░░░░   77.19 % 
+VS Code                  34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
 
 🐱‍💻 Projects: 
-Outside Brain            53 mins             ██████████████░░░░░░░░░░░   55.50 % 
-sanatanayuveda           32 mins             ████████░░░░░░░░░░░░░░░░░   33.63 % 
-qa_learning_journal      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Outside Brain            1 hr 47 mins        ██████████████████░░░░░░░   70.30 % 
+sanatanayuveda           35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+qa_learning_journal      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 💻 Operating System: 
-Linux                    1 hr 36 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (73.57%)
+⏱ AI Coding Time: 2 hrs 5 mins (81.65%)
 
-✍️ 100 lines written by AI, 100 lines written by hand (50.0% AI-written)
+✍️ 265 lines written by AI, 100 lines written by hand (72.6% AI-written)
 
-🔤 728,545 Input Tokens, 69,290 Output Tokens
+🔤 984,975 Input Tokens, 163,755 Output Tokens
 
-💵 $3.19 Estimated AI Cost This Week
+💵 $5.32 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 19 AI Prompts
+🧠 11 AI Sessions, 30 AI Prompts
 
-Sonnet                   100 lines           █████████████████████████   100.00 % 
+Sonnet                   265 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.0% of written lines came from AI
-📝 Concise Prompter — average 317 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 50.5% of changed lines were hand-edited
+🤖 AI-Driven — 72.6% of written lines came from AI
+📄 Detailed Prompter — average 845 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 27.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 05:04:09 UTC
+ Last Updated on 03/10/2026 04:47:34 UTC
 <!--END_SECTION:waka-->
 
 ---
