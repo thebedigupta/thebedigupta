@@ -53,9 +53,9 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -63,32 +63,32 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,050 Contributions in the Year 2026
+> 🏆 1,043 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                577 commits         ████████░░░░░░░░░░░░░░░░░   33.45 % 
-🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-🌃 Evening                830 commits         ████████████░░░░░░░░░░░░░   48.12 % 
-🌙 Night                  115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌞 Morning                576 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌃 Evening                828 commits         ████████████░░░░░░░░░░░░░   48.11 % 
+🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Tuesday                  238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Wednesday                281 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Saturday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Monday                   414 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Saturday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 ```
 
 
@@ -142,11 +142,11 @@ Sonnet                   265 lines           ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-EJS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
+JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+EJS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -156,7 +156,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 04:47:34 UTC
+ Last Updated on 04/10/2026 05:20:03 UTC
 <!--END_SECTION:waka-->
 
 ---
