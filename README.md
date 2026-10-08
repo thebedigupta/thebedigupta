@@ -98,43 +98,41 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 57 mins             ███████████████████░░░░░░   75.34 % 
-TypeScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Markdown                 1 hr 21 mins        ████████████████████████░   96.74 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Claude Code              57 mins             ███████████████████░░░░░░   75.34 % 
-VS Code                  18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Claude Code              1 hr 21 mins        ████████████████████████░   96.74 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🐱‍💻 Projects: 
-Outside Brain            57 mins             ███████████████████░░░░░░   75.34 % 
-sanatanayuveda           18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Outside Brain            1 hr 21 mins        ████████████████████████░   96.74 % 
+sanatanayuveda           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (75.36%)
+⏱ AI Coding Time: 1 hr 21 mins (96.76%)
 
-✍️ 165 lines written by AI, 68 lines written by hand (70.82% AI-written)
+✍️ 165 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 307,582 Input Tokens, 109,314 Output Tokens
+🔤 1,159,624 Input Tokens, 125,986 Output Tokens
 
-💵 $2.56 Estimated AI Cost This Week
+💵 $5.66 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 5 AI Sessions, 18 AI Prompts
 
 Sonnet                   165 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.82% of written lines came from AI
-📚 Verbose Prompter — average 1,758 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 29.49% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,268 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,7 +152,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 05:22:49 UTC
+ Last Updated on 08/10/2026 05:31:29 UTC
 <!--END_SECTION:waka-->
 
 ---
