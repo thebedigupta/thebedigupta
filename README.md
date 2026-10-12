@@ -98,42 +98,42 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        ████████████████░░░░░░░░░   65.31 % 
-TypeScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 1 hr 29 mins        ██████████████████░░░░░░░   72.12 % 
+TypeScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Claude Code              2 hrs               ██████████████████████░░░   88.12 % 
-VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Claude Code              1 hr 46 mins        █████████████████████░░░░   85.34 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 
 🐱‍💻 Projects: 
-Outside Brain            2 hrs               ██████████████████████░░░   88.12 % 
-sanatan-api-automation   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Outside Brain            1 hr 46 mins        █████████████████████░░░░   85.28 % 
+sanatan-api-automation   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 
 💻 Operating System: 
-Linux                    2 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (90.67%)
+⏱ AI Coding Time: 1 hr 51 mins (89.7%)
 
 ✍️ 600 lines written by AI, 1 lines written by hand (99.83% AI-written)
 
-🔤 2,901,649 Input Tokens, 211,085 Output Tokens
+🔤 2,643,581 Input Tokens, 178,872 Output Tokens
 
-💵 $17.50 Estimated AI Cost This Week
+💵 $16.10 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 40 AI Prompts
+🧠 7 AI Sessions, 35 AI Prompts
 
 Sonnet                   601 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.83% of written lines came from AI
-📚 Verbose Prompter — average 3,082 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 3,545 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.33% of changed lines were hand-edited
 ```
 
@@ -154,7 +154,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 05:10:38 UTC
+ Last Updated on 12/10/2026 05:24:28 UTC
 <!--END_SECTION:waka-->
 
 ---
