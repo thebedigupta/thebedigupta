@@ -98,41 +98,37 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 min               █████████████░░░░░░░░░░░░   52.07 % 
-Other                    1 min               ████████████░░░░░░░░░░░░░   47.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   98.22 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sanatan-api-automation   1 min               █████████████░░░░░░░░░░░░   52.26 % 
-Outside Brain            1 min               ████████████░░░░░░░░░░░░░   47.74 % 
+Outside Brain            1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 642,624 Input Tokens, 9,588 Output Tokens
+🔤 620,630 Input Tokens, 4,302 Output Tokens
 
-💵 $1.52 Estimated AI Cost This Week
+💵 $1.28 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 857 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 541 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -153,7 +149,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 03:59:27 UTC
+ Last Updated on 19/10/2026 04:08:13 UTC
 <!--END_SECTION:waka-->
 
 ---
