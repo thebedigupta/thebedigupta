@@ -98,22 +98,42 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               16 mins             ██████████████████░░░░░░░   73.35 % 
+YAML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 mins             █████████████████░░░░░░░░   66.90 % 
+Antigravity Desktop      7 mins              ████████░░░░░░░░░░░░░░░░░   33.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sanatan-api-automation   22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    22 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (76.4%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 22,785 Input Tokens, 1,127 Output Tokens
+
+💵 $0.09 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 6 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 594 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +153,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 04:10:39 UTC
+ Last Updated on 23/10/2026 04:14:18 UTC
 <!--END_SECTION:waka-->
 
 ---
