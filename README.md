@@ -63,30 +63,30 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 
 > 📦 21.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,043 Contributions in the Year 2026
+> 🏆 1,045 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                576 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
-🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌃 Evening                828 commits         ████████████░░░░░░░░░░░░░   48.11 % 
+🌞 Morning                576 commits         ████████░░░░░░░░░░░░░░░░░   33.45 % 
+🌆 Daytime                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+🌃 Evening                829 commits         ████████████░░░░░░░░░░░░░   48.14 % 
 🌙 Night                  114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   414 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Monday                   415 commits         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Tuesday                  237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Wednesday                280 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Thursday                 291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Friday                   149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 Saturday                 125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 ```
@@ -98,41 +98,45 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 mins             ██████████████████░░░░░░░   73.35 % 
-YAML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               27 mins             █████████████░░░░░░░░░░░░   52.12 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████░░░░░░░░   66.90 % 
-Antigravity Desktop      7 mins              ████████░░░░░░░░░░░░░░░░░   33.10 % 
+VS Code                  34 mins             ████████████████░░░░░░░░░   64.18 % 
+Antigravity Desktop      19 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
 
 🐱‍💻 Projects: 
-sanatan-api-automation   22 mins             █████████████████████████   100.00 % 
+sanatan-api-automation   22 mins             ██████████░░░░░░░░░░░░░░░   41.43 % 
+sa-web-app               15 mins             ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+qa_learning_journal      15 mins             ███████░░░░░░░░░░░░░░░░░░   28.76 % 
 
 💻 Operating System: 
-Linux                    22 mins             █████████████████████████   100.00 % 
+Linux                    53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (76.4%)
+⏱ AI Coding Time: 41 mins (77.97%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 22,785 Input Tokens, 1,127 Output Tokens
+🔤 95,319 Input Tokens, 3,640 Output Tokens
 
-💵 $0.09 Estimated AI Cost This Week
+💵 $0.26 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 4 AI Sessions, 36 AI Prompts
 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 594 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -153,7 +157,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 04:12:02 UTC
+ Last Updated on 27/10/2026 04:31:07 UTC
 <!--END_SECTION:waka-->
 
 ---
