@@ -53,7 +53,7 @@ Tools         Git · GitHub · AWS EC2 · VS Code
 ## ⏱️ This week I coded
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%205%20mins-blue?style=flat)
 
@@ -98,45 +98,45 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       █████████████████████░░░░   85.33 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TypeScript               3 hrs 26 mins       ██████████████████████░░░   86.98 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 35 mins       ██████████████████████░░░   89.06 % 
-Antigravity Desktop      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+VS Code                  3 hrs 35 mins       ███████████████████████░░   90.70 % 
+Antigravity Desktop      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 
 🐱‍💻 Projects: 
-sa-web-app               2 hrs 17 mins       ████████████████████░░░░░   78.57 % 
-sanatan-api-automation   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-qa_learning_journal      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+sa-web-app               3 hrs 19 mins       █████████████████████░░░░   84.18 % 
+sanatan-api-automation   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+qa_learning_journal      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (23.8%)
+⏱ AI Coding Time: 1 hr 26 mins (36.62%)
 
-✍️ 0 lines written by AI, 111 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 140 lines written by hand (0.0% AI-written)
 
 🔤 95,319 Input Tokens, 3,640 Output Tokens
 
 💵 $0.26 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 36 AI Prompts
+🧠 5 AI Sessions, 55 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 126 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -157,7 +157,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/thebedigupta/thebedigupta/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 05:02:32 UTC
+ Last Updated on 29/10/2026 05:15:42 UTC
 <!--END_SECTION:waka-->
 
 ---
